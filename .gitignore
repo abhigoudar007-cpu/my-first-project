@@ -1,7 +1,3 @@
 downloads/
 sstate-cache/
 tmp/
-build/*
-!build/conf/
-build/conf/*
-!build/conf/local.conf
